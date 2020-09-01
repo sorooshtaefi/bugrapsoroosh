@@ -1,0 +1,35 @@
+.n1:before .n2:before .n3:before .n4:before .n5:before .n6:before {
+    display:block;
+    height: 25px;
+}
+
+.n1:before {
+   content: "▮";
+   color: #008015;
+
+}
+
+.n2:before {
+   content: "▮▮";
+   color: #BBFF99;
+}
+
+.n3:before {
+   content: "▮▮▮";
+   color: #E6E600;
+}
+
+.n4:before {
+   content: "▮▮▮▮";
+   color: orange;
+}
+
+.n5:before {
+   content: "▮▮▮▮▮";
+   color: red;
+}
+
+.n6:before {
+   content: "▮▮▮▮▮▮";
+   color: #8B0000;
+}
